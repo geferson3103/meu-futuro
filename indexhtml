@@ -4,24 +4,30 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>MEU FUTURO</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="link.css">
 </head>
 <body>
 
 <header class="cabeçalho">
-
 <h1></h1>
-
 <ul class="lista-principal">
-
-<li class="item"> geferson pedro</li>
+<li class="item"> JOCEMARA MARIANO</li>
 <li class="item"> MEUS SONHOS</li>
-
-<img src="19494963-homem-menino-avatar-usuario-pessoa-pessoas-cabelo-cacheado-estilo-de-contorno-preto.html" alt=" um homem me representando">
-<p>meu sonho é ter um carro bom uma moto boa <
+<img src="19494963-homem-menino-avatar-usuario-pessoa-pessoas-cabelo-cacheado-estilo-de-contorno-preto.html" alt="aqui tem uma foto de uma foto me representando">
 </ul>
-
 </header>
+
+
+
+<section>
+<div>
+<img src=""">
+<p>meu sonho e ser professora</p>
+<p>esse e meu sonho realizado </p>
+</div>
+</section>
+
+
 
 </body>
 </html>
